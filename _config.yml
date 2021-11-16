@@ -2,8 +2,7 @@ title: OviBlog
 author: toppiovi
 email: tobias.oefner@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  On my OviBlog I intend to share my experiences and learnings as a software developer. 
-  Write an awesome description for your new site here.
+  On my OviBlog I intend to share my experiences and learnings as a software developer.
   
 # social links
 twitter_username: OefnerTobias # DO NOT include the @ character, or else the build will fail!
